@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ứng dụng lừa đảo thu hút hàng nghìn bình luận và đánh giá tích cực	</title>
+	<atom:link href="https://duong122.github.io/bao_deploy/2023/08/23/ung-dung-lua-dao-thu-hut-hang-nghin-binh-luan-va-danh-gia-tich-cuc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duong122.github.io/bao_deploy/2023/08/23/ung-dung-lua-dao-thu-hut-hang-nghin-binh-luan-va-danh-gia-tich-cuc/</link>
+	<description>Một trang báo đánh dấu lần tiên làm báo</description>
+	<lastBuildDate>Wed, 23 Aug 2023 05:34:31 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+</channel>
+</rss>
